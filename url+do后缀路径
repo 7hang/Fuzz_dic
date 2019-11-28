@@ -57,3 +57,11 @@
 /view.do
 /channel/cooperation/save.do
 /search.do
+/openAlertApi.do
+/loginByIm.do
+/qrcodeLoginAuthor.do
+/welcome.do
+/login.do
+/searchEx.do
+/channel/system/login.do
+/cms/system/login.do
