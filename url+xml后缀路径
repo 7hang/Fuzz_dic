@@ -1,0 +1,11 @@
+/password.xml
+/db.xml
+/ctx-system-common.xml
+/ctx-tudou-client.xml
+/memcached.xml
+/captcha.xml
+/applicationContext.xml
+/WEB-INF/classes/applicationContext.xml
+/struts-config-manager.xml
+/WEB-INF/struts_config/struts-config-manager.xml
+/ctx-base.xml
