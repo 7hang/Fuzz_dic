@@ -1,3 +1,4 @@
+weblogic/weblogic123
 weblogic/Oracle@123
 system/password
 weblogic/weblogic
