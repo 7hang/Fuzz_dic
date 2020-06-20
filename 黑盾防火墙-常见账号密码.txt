@@ -1,0 +1,3 @@
+admin	admin
+rule	abc123
+audit	abc123

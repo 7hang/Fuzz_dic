@@ -1,0 +1,4 @@
+admin	adminer
+admin	admin
+admin	h3capadmin
+h3c	h3c 

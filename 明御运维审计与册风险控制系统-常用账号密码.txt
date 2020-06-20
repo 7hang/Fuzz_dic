@@ -1,0 +1,4 @@
+admin	1q2w3e
+system	1q2w3e4r
+auditor	1q2w3e4r
+operator	1q2w3e4r

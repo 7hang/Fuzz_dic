@@ -1,0 +1,15 @@
+weblogic/weblogic123
+weblogic/weblogic2
+weblogic/Oracle@123
+system/password
+weblogic/weblogic
+admin/security
+joe/password
+mary/password
+system/security
+wlcsystem/wlcsystem
+wlpisystem/wlpisystem
+guest/guest
+portaladmin/portaladmin
+system/system
+WebLogic/WebLogic

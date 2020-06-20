@@ -1,0 +1,4 @@
+eyouuser	eyou_admin
+eyougw	admin@(eyou)
+admin	+-ccccc
+admin	cyouadmin

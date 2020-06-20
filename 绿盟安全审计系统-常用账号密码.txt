@@ -1,0 +1,5 @@
+weboper	weboper
+webaudit	webaudit
+conadmin	conadmin
+admin	admin
+shell	shell

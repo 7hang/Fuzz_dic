@@ -1,0 +1,3 @@
+username:adminpassword:epicrouter
+
+username:userpassword:password

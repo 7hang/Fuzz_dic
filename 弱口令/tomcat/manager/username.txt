@@ -1,6 +1,0 @@
-admin
-role
-role1
-root
-tomcat
-both

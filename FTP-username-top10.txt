@@ -1,0 +1,11 @@
+desc
+ftp
+root
+anonymous
+guest
+Administrator
+user
+aaa
+111
+000
+123

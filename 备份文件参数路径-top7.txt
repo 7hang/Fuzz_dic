@@ -1,0 +1,7 @@
+/config.php.bak
+/config/config.php.bak
+/jssdk.php.bak
+/cgi/cgi.zip
+/rapoo.zip
+/wx_sample.zip
+/forup2.rar
