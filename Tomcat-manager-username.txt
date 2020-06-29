@@ -1,3 +1,4 @@
+username:
 admin
 role
 role1
@@ -6,7 +7,15 @@ tomcat
 both
 manager
 j2deployer
-j2deployer
 ovwebusr
 owaspbwa
 kdsxc
+
+
+password:
+admin    
+123456    
+tomcat    
+s3cret   
+manager   
+admin123
