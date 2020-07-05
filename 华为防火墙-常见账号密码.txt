@@ -1,2 +1,6 @@
 telnetuser	telnetpwd
 ftpuser	ftppwd
+
+
+
+USG6306/6308/6330/6350/6360/6370/6380/6390/6507/6530/6550/6570/6620/6630  默认账号密码： admin/Admin@123  参考https://support.huawei.com/enterprise/zh/doc/EDOC1000042153?idPath=24030814%7C9856724%7C21430823%7C21100507%7C21342396
