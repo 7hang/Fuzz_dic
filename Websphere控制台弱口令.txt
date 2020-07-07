@@ -1,0 +1,2 @@
+[host]/ibm/console
+[host]/ibm/console/secure/logon.do
